@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHI0pfa3dS67S/ERq9Ia8K4dlpGLK+Nm9VeyyvNf8n4hL7UGmh69hxXIvxY5LfjMZsys0lAtpBAqbyl3R/r6oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abc\\Desktop\\C#\\Week3\\ApplicationChat\\ApplicationChat\\ApplicationChat_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\abc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\abc\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\abc\\.nuget\\packages\\system.threading.thread\\4.3.0\\system.threading.thread.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

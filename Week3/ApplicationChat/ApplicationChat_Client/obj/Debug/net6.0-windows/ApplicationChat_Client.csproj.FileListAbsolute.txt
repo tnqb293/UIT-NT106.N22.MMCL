@@ -1,0 +1,17 @@
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\bin\Debug\net6.0-windows\ApplicationChat_Client.exe
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\bin\Debug\net6.0-windows\ApplicationChat_Client.dll
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.csproj.AssemblyReference.cache
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.Client.resources
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.AssemblyInfoInputs.cache
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.AssemblyInfo.cs
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.dll
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\refint\ApplicationChat_Client.dll
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.pdb
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\bin\Debug\net6.0-windows\ApplicationChat_Client.deps.json
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\bin\Debug\net6.0-windows\ApplicationChat_Client.runtimeconfig.json
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\bin\Debug\net6.0-windows\ApplicationChat_Client.pdb
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ApplicationChat_Client.genruntimeconfig.cache
+C:\Users\abc\Desktop\C#\Week3\ApplicationChat\ApplicationChat_Client\obj\Debug\net6.0-windows\ref\ApplicationChat_Client.dll
