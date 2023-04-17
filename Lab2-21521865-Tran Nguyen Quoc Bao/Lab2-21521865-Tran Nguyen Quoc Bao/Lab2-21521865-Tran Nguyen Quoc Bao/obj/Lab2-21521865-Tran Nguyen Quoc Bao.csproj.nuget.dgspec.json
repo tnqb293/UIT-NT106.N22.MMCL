@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abc\\Desktop\\C#\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao.csproj": {}
+    "C:\\Users\\abc\\Desktop\\UIT-NT106.N22.MMCL\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abc\\Desktop\\C#\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao.csproj": {
+    "C:\\Users\\abc\\Desktop\\UIT-NT106.N22.MMCL\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abc\\Desktop\\C#\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao.csproj",
+        "projectUniqueName": "C:\\Users\\abc\\Desktop\\UIT-NT106.N22.MMCL\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao.csproj",
         "projectName": "Lab2-21521865-Tran Nguyen Quoc Bao",
-        "projectPath": "C:\\Users\\abc\\Desktop\\C#\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao.csproj",
+        "projectPath": "C:\\Users\\abc\\Desktop\\UIT-NT106.N22.MMCL\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abc\\Desktop\\C#\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\obj\\",
+        "outputPath": "C:\\Users\\abc\\Desktop\\UIT-NT106.N22.MMCL\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\Lab2-21521865-Tran Nguyen Quoc Bao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config",

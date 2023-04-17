@@ -79,7 +79,7 @@
             Bai4.TabIndex = 3;
             Bai4.Text = "BÀI 4";
             Bai4.UseVisualStyleBackColor = true;
-            Bai4.Click += Bai4_Click;
+            
             // 
             // Bai5
             // 
